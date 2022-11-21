@@ -28,7 +28,7 @@ export const StatsItem = styled.li`
   flex-direction: column;
   align-items: center;
   width: 105px;
-  height: 80px;
+  height: 60px;
   border: ${p => p.theme.borders.normal} ${p => p.theme.colors.borderColor};
   background-color: ${p => p.theme.colors.backgroundColorCard};
 `;
